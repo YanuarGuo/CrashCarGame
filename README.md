@@ -1,7 +1,7 @@
-# Crash Plane Game
+# Crash Car Game
 
 ## Overview
-Crash Plane Game is a simple 2D car dodging game developed using C# and Windows Forms. The player controls a car that moves left and right while avoiding enemy cars and collecting coins.
+Crash Car Game is a simple 2D car dodging game developed using C# and Windows Forms. The player controls a car that moves left and right while avoiding enemy cars and collecting coins.
 
 ## Features
 - Move the car using arrow keys.
@@ -27,7 +27,7 @@ Crash Plane Game is a simple 2D car dodging game developed using C# and Windows 
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/CrashPlaneGame.git
+   git clone https://github.com/YanuarGuo/CrashPlaneGame.git
    ```
 2. Open the project in Visual Studio.
 3. Build and run the project.
