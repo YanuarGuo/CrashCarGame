@@ -27,7 +27,7 @@ Crash Car Game is a simple 2D car dodging game developed using C# and Windows Fo
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/YanuarGuo/CrashPlaneGame.git
+   https://github.com/YanuarGuo/CrashCarGame.git
    ```
 2. Open the project in Visual Studio.
 3. Build and run the project.
